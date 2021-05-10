@@ -1,4 +1,4 @@
-# seq_seq_auto_encoder
+# Auto Encoder - NLP autoencoder to predict ingredients for a given recipe name
 
 In this project, I look at how a Sequence to Sequence model can be used to predict what 
 food ingredients are needed for a given recipe. 
