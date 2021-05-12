@@ -9,6 +9,7 @@ Predicted: “ground beef, beans, onions, salt, oil, peppers, oregano, water"
 
 ```
 search('chicken pot pie')
+dist: 1.02
 boneless skinless chicken breasts, margarine, water, ritz cracker crumbs, parmesan cheese, cream of chicken soup, sour cream, mushrooms
 
 dist: 1.02
